@@ -60,7 +60,7 @@ color: #000;
     background: url('https://i.ibb.co/516nbxX/laptop-color-design.jpg') no-repeat center center fixed;
     background-size: cover;
     height: 855px;
-    position: fixed;	
+  	
 }
 .bg-overlay {
   background:rgba(0,0,0, 0.3);
